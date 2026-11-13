@@ -4,9 +4,9 @@
 
 ## 练习目录
 
-| 练习 | 内容 | 工程说明 |
+| 系列与编号 | 工程 | 主题 |
 | --- | --- | --- |
-| 01 · 目标计数 | 回形针自动计数与红框标注 | [运行说明](project/02_object_counting/paperclip_counting/README.md) |
+| 编程练习 01 | [回形针自动计数](project/02_object_counting/paperclip_counting/README.md) | 目标计数 |
 
 ## 查看与运行
 
