@@ -7,6 +7,7 @@
 | 系列与编号 | 工程 | 主题 |
 | --- | --- | --- |
 | 编程练习 01 | [回形针自动计数](project/02_object_counting/paperclip_counting/README.md) | 目标计数 |
+| 编程练习 02 | [硬币自动计数](project/02_object_counting/coin_counting/README.md) | 目标计数 |
 
 ## 查看与运行
 
