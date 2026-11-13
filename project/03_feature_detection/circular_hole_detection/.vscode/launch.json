@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "运行圆孔识别检测 (MSVC)",
+      "type": "cppvsdbg",
+      "request": "launch",
+      "program": "${workspaceFolder}\\build\\circular_hole_detection.exe",
+      "args": [],
+      "cwd": "${workspaceFolder}",
+      "environment": [{ "name": "PATH", "value": "${env:OPENCV_ROOT}\\x64\\vc16\\bin;${env:PATH}" }],
+      "console": "integratedTerminal",
+      "preLaunchTask": "Build OpenCV C++ (MSVC Debug)"
+    }
+  ]
+}
+
+
+
