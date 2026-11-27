@@ -9,6 +9,7 @@
 | 编程练习 01 | [回形针自动计数](project/02_object_counting/paperclip_counting/README.md) | 目标计数 |
 | 编程练习 02 | [硬币自动计数](project/02_object_counting/coin_counting/README.md) | 目标计数 |
 | 编程练习 03 | [圆孔识别检测](project/03_feature_detection/circular_hole_detection/README.md) | 特征检测 |
+| 编程练习 04 | [边缘与长边检测](project/03_feature_detection/edge_line_detection/README.md) | 特征检测 |
 
 ## 查看与运行
 
