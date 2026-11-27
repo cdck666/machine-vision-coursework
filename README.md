@@ -11,6 +11,7 @@
 | 编程练习 03 | [圆孔识别检测](project/03_feature_detection/circular_hole_detection/README.md) | 特征检测 |
 | 编程练习 04 | [边缘与长边检测](project/03_feature_detection/edge_line_detection/README.md) | 特征检测 |
 | 编程练习 05 | [工件直边提取](project/03_feature_detection/edge_segment_extraction/README.md) | 特征检测 |
+| 编程练习 06 | [图像倾斜矫正](project/04_geometric_transforms/image_deskew/README.md) | 几何变换 |
 
 ## 查看与运行
 
